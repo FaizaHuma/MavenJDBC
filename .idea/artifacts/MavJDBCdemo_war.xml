@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavJDBCdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MavJDBCdemo.war">
+      <element id="artifact" artifact-name="MavJDBCdemo:war exploded" />
+    </root>
+  </artifact>
+</component>

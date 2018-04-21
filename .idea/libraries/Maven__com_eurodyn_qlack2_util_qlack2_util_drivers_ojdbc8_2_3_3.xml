@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.eurodyn.qlack2.util:qlack2-util-drivers-ojdbc8:2.3.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eurodyn/qlack2/util/qlack2-util-drivers-ojdbc8/2.3.3/qlack2-util-drivers-ojdbc8-2.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eurodyn/qlack2/util/qlack2-util-drivers-ojdbc8/2.3.3/qlack2-util-drivers-ojdbc8-2.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/eurodyn/qlack2/util/qlack2-util-drivers-ojdbc8/2.3.3/qlack2-util-drivers-ojdbc8-2.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
